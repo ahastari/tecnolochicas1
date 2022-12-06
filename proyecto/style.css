@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(159, 0, 199);
+    color: rgb(236, 196, 163) ;
+    font-family: 'BhuTuka Expanded One', cursive;
+
+}
+
+p{
+    color: black;
+}
+
+h1{
+    font-size: 60px;
+    /*font-family: cursive;*/
+    font-family: 'Rubik Microbe', cursive;
+}
+
+h3{
+    font-size: 30px;
+    
+}
+
+/*Familias tipograficas*/
+/*Link de diferentes estilos https://fonts.google.com/*/
+
+img{
+    width: 250px; /*ancho de la imagen */
+    height: 200px; /*altura de la imagen*/
+    border-radius: 10%; /*modifia el borde*/
+    border-width: 10px; /*agregar borde*/
+    border-color: rgb(223, 238, 9);/*color al borde*/
+    border-style: dashed dotted double;/*estilo al borde*/
+}
+
+div{
+    background-color: indianred;
+}
+
+
