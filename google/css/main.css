@@ -19,8 +19,8 @@ main .main-logo{
 }
 
 main .main-logo img{
-    width: 330px;
-    height: 200px;
+    width: 550px;
+    height: 250px;
 }
 
 a {
@@ -59,3 +59,22 @@ nav .nav-right-section img{
     height: 60%;
     margin-left: 25px;
 }
+
+nav .nav-right-section .menu-icon{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 27px;
+    height: 27px;
+}
+
+nav .nav-right-section .menu-icon img{
+    width: 30px;
+    height: 30px;
+    margin-left: 0pt;
+    margin-right: 15pt;
+    filter: invert(15);
+}
+
+
+
